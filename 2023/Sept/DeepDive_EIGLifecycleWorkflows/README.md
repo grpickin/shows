@@ -9,7 +9,7 @@
 - TBD
   
 # Description
-
+Want to automate actions that your organization does during the lifecycle of when users join/move/and leave your organization?   Join us for a deep dive into the Microsoft Entra ID Governance Lifecycle workflows feature and learn how you can move from doing manual tasks to automation at scale!
 
 # Links
 ------------------------------------------
@@ -21,7 +21,7 @@
 
 # Presentation
 
-[Deep Dive on Identity Lifecycle Workflows in Microsoft Entra ID Governance](https://github.com/425show/Shows/blob/main/2023/Sept/425%20Show%20Connect%20September%202023.pptx)
+[Deep Dive on Identity Lifecycle Workflows in Microsoft Entra ID Governance](https://github.com/425show/shows/blob/main/2023/Sept/DeepDive_EIGLifecycleWorkflows/425show_2023-09-EIG_LCW_Deepdive.pdf)
 
 # Chapters:
 ---------------------------
