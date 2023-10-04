@@ -1,6 +1,6 @@
 # Presented By 
 - Kristina Smith, Principal Product Manager, Identity team | [LinkedIn](https://www.linkedin.com/in/krsmith28) 
-- Jef Kazimer, Principal Product Manager, Identity team | [Site](https://jeftek.com)
+- Jef Kazimer, Principal Product Manager, Identity team | [jeftek.com](https://jeftek.com)
 
 # Full Recording
 [Deep Dive on Identity Lifecycle Workflows in Microsoft Entra ID Governance](https://youtu.be/OAWUss7SUf0)
