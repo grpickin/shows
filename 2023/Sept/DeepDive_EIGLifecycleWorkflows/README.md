@@ -1,3 +1,9 @@
+# Title
+Deep Dive on Identity Lifecycle Workflows in Microsoft Entra ID Governance
+
+# Original Live Stream Date:
+2023-09-14
+
 # Presented By 
 - Kristina Smith, Principal Product Manager, Identity team | [LinkedIn](https://www.linkedin.com/in/krsmith28) 
 - Jef Kazimer, Principal Product Manager, Identity team | [jeftek.com](https://jeftek.com)
