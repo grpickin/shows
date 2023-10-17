@@ -8,7 +8,7 @@ Getting Started With Microsoft Entra Verified ID
 
 
 # Full Recording
-[Getting Started With Microsoft Entra Verified ID](https://youtu.be/OAWUss7SUf0](https://youtu.be/M7f1uRZKpW0?si=oRk035v1HTrVrHNs)
+[Getting Started With Microsoft Entra Verified ID](https://youtu.be/M7f1uRZKpW0?si=oRk035v1HTrVrHNs)
 
 # Clips
 - TBD
