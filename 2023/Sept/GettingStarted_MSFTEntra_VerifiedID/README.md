@@ -25,7 +25,7 @@ Microsoft Entra Verified ID can be used to streamline your onboarding hiring pro
 
 # Presentation
 
-[Getting Started With Microsoft Entra Verified ID](https://github.com/425show/shows/blob/main/2023/Sept/DeepDive_EIGLifecycleWorkflows/425show_2023-09-EIG_LCW_Deepdive.pdf](https://github.com/425show/shows/blob/main/2023/Sept/GettingStarted_MSFTEntra_VerifiedID/425show_2023-09-MSFT_Entra_Verified_ID.pdf)
+[Getting Started With Microsoft Entra Verified ID](https://github.com/425show/shows/blob/main/2023/Sept/GettingStarted_MSFTEntra_VerifiedID/425show_2023-09-MSFT_Entra_Verified_ID.pdf)
 
 # Chapters:
 ---------------------------
